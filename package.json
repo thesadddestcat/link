@@ -1,0 +1,19 @@
+{
+  "name": "link",
+  "version": "0.0.1",
+  "description": "Link - the worst language module for js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Test!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesadddestcat/link.git"
+  },
+  "author": "thesadddestcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesadddestcat/link/issues"
+  },
+  "homepage": "https://github.com/thesadddestcat/link#readme"
+}
